@@ -13,7 +13,7 @@
 ```bash
 npm install 
 ```
-# kalankan project
+# jalankan project
 ```bash
 nodemon
 ```
