@@ -24,21 +24,21 @@ nodemon
 -penulis
 
 # Buku
-GET
+### `GET`
 ```bash
  https://localhost:3000/api/buku
 ```
-POST
+### `POST`
 ```bash
  https://localhost:3000/api/buku
  request: nama_buku, id_penulis, id_kategori
 ```
 
-PUT
+### `PUT`
 ```bash
  https://localhost:3000/api/buku/{id}
 ```
-DELETE
+### `DELETE`
 ```bash
  https://localhost:3000/api/buku/{id}
 ```
