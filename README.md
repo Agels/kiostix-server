@@ -33,7 +33,7 @@ GET
 POST
 ```bash
  https://localhost:3000/api/penulis
- request: nama_buku, id_penulis, id_kategori
+ request: nama_penulis
 ```
 PUT
 ```bash
@@ -52,7 +52,7 @@ GET
 POST
 ```bash
  https://localhost:3000/api/kategori
- request: nama_buku, id_penulis, id_kategori
+ request: nama_kategori
 ```
 PUT
 ```bash
