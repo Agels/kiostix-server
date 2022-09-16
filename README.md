@@ -44,39 +44,39 @@ nodemon
 ```
 
 # PENULIS
-GET
+### `GET`
 ```bash
  https://localhost:3000/api/penulis
 ```
-POST
+### `POST`
 ```bash
  https://localhost:3000/api/penulis
  request: nama_penulis
 ```
-PUT
+### `PUT`
 ```bash
  https://localhost:3000/api/penulis/{id}
 ```
-DELETE
+### `DELETE`
 ```bash
  https://localhost:3000/api/penulis/{id}
 ```
 
 # KATEGORI
-GET
+### `GET`
 ```bash
  https://localhost:3000/api/kategori
 ```
-POST
+### `POST`
 ```bash
  https://localhost:3000/api/kategori
  request: nama_kategori
 ```
-PUT
+### `PUT`
 ```bash
  https://localhost:3000/api/kategori/{id}
 ```
-DELETE
+### `DELETE`
 ```bash
  https://localhost:3000/api/kategori/{id}
 ```
