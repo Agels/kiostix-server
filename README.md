@@ -1,4 +1,22 @@
 # kiostix-server
+## RUNNING PROJECT
+
+# Clone repository
+```bash
+ https://github.com/Agels/kiostix-server.git
+```
+# masukan ke folder project yang sudah di clone
+```bash
+ cd {nama_project}
+```
+# install semua depency yang dibutuhkan
+```bash
+npm install 
+```
+# kalankan project
+```bash
+nodemon
+```
 
 ## Fitur 
 -buku
