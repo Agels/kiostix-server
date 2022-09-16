@@ -13,7 +13,9 @@ GET
 POST
 ```bash
  https://localhost:3000/api/buku
+ request: nama_buku, id_penulis, id_kategori
 ```
+
 PUT
 ```bash
  https://localhost:3000/api/buku/{id}
